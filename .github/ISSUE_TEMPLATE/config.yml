@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: MASTER canonical control feed
+    url: https://github.com/davidligotti/dealflows-lead-gen/issues/115
+    about: Route incidents, changes, runtime evidence, and owner gates through the canonical MASTER Work ID feed.
